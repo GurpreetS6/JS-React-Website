@@ -1,1 +1,1 @@
-# JS_Website_Portfolio
+Website development using JavaScript React, HTML, and CSS.
